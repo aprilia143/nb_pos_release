@@ -107,12 +107,27 @@ POS
   Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
 </summary>
 </member>
+<member name="P:POS.My.Resources.Resources.Click">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:POS.My.Resources.Resources.lock_alt_solid_48">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:POS.My.Resources.Resources.remove_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POS.My.Resources.Resources.shortcut_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POS.My.Resources.Resources.shortcut_orange_16">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
