@@ -117,6 +117,16 @@ POS
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:POS.My.Resources.Resources.LOGIN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POS.My.Resources.Resources.LOGOUT">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:POS.My.Resources.Resources.remove_16">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
